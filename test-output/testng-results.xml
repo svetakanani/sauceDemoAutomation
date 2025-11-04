@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-04T11:24:51 IST" name="Default suite" finished-at="2025-11-04T11:24:58 IST" duration-ms="7432">
+  <suite started-at="2025-11-04T11:42:45 IST" name="Suite" finished-at="2025-11-04T11:42:52 IST" duration-ms="6649">
     <groups>
     </groups>
-    <test started-at="2025-11-04T11:24:51 IST" name="Default test" finished-at="2025-11-04T11:24:58 IST" duration-ms="7432">
+    <test started-at="2025-11-04T11:42:45 IST" name="Test" finished-at="2025-11-04T11:42:52 IST" duration-ms="6649">
       <class name="testScript.InventoryTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testScript.InventoryTest@242b836]" started-at="2025-11-04T11:24:51 IST" name="setup" finished-at="2025-11-04T11:24:58 IST" duration-ms="6821" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testScript.InventoryTest@272113c4]" started-at="2025-11-04T11:42:45 IST" name="setup" finished-at="2025-11-04T11:42:52 IST" duration-ms="6140" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="InventoryTest()[pri:0, instance:testScript.InventoryTest@242b836]" started-at="2025-11-04T11:24:58 IST" name="InventoryTest" finished-at="2025-11-04T11:24:58 IST" duration-ms="360" status="PASS">
+        <test-method signature="InventoryTest()[pri:0, instance:testScript.InventoryTest@272113c4]" started-at="2025-11-04T11:42:52 IST" name="InventoryTest" finished-at="2025-11-04T11:42:52 IST" duration-ms="302" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InventoryTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScript.InventoryTest@242b836]" started-at="2025-11-04T11:24:58 IST" name="tearDown" finished-at="2025-11-04T11:24:58 IST" duration-ms="146" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScript.InventoryTest@272113c4]" started-at="2025-11-04T11:42:52 IST" name="tearDown" finished-at="2025-11-04T11:42:52 IST" duration-ms="117" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testScript.InventoryTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
